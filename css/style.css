@@ -54,6 +54,11 @@ body{
     animation-delay: 1.6s;
 }
 
+.qoute {
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+}
+
 .description{
     font-size: 1.5rem;
     margin-bottom: 20px;
@@ -78,6 +83,10 @@ body{
         text-align: center;
     }
     .description{
+        font-size: 1rem;
+    }
+    
+    .qoute {
         font-size: 1rem;
     }
     
